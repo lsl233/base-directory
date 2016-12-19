@@ -2,3 +2,4 @@ node_modules/
 .sass-catche/
 .git/
 npm-debug.log
+.idea/
